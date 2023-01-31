@@ -5,7 +5,7 @@
 
 - 👨‍💻 Wszystkie moje projekty: [https://github.com/mowmimalpa](https://github.com/mowmimalpa)
 
-- 📫 Jak mnie znaleźć: **dmalecki.it@gmail.com**
+- 📫 Jak się ze mną skontaktować: **dmalecki.it@gmail.com**
 
 <h3 align="left">Kontakt ze mną:</h3>
 <p align="left">
