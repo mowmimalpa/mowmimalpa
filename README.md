@@ -5,9 +5,9 @@
 
 - 👨‍💻 Wszystkie moje projekty: [https://github.com/mowmimalpa](https://github.com/mowmimalpa)
 
-- 📫 Jak się ze mną skontaktować: **dmalecki.it@gmail.com**
+- 📫 Kontakt: **dmalecki.it@gmail.com**
 
-<h3 align="left">Kontakt ze mną:</h3>
+<h3 align="left">Znajdź mnnie na:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maleckidawidit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maleckidawidit/" height="30" width="40" /></a>
 </p>
