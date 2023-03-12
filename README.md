@@ -1,17 +1,53 @@
-<h1 align="center">Cześć 👋, Jestem Dawid</h1>
-<h3 align="center">Wchodzący w branże Tester Automatyzujący</h3>
+```php
+<?php
 
-- Pracuję aktualnie nad: [Projekt testerski z udziałem Selenium,prostej strony do wypożyczania książek](https://github.com/mowmimalpa/Test-Project-Selenium)
+namespace DawidMałecki;
 
-- 👨‍💻 Wszystkie moje projekty: [https://github.com/mowmimalpa](https://github.com/mowmimalpa)
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Looking for my first commercial experience',
+                'position' => 'QA,Tester,Manual Tester'         
+            ]
+        ];
+    }
 
-- 📫 Kontakt: **dmalecki.it@gmail.com**
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Git::class,
+            Spring Boot::class,
+            RESTAPI::class,
+            Selenium::class,
+            Cucumber/Gherkin::class,
+            SQL::class,
+            SOAP::class,
+            Java17::class,
+            JUnit::class
+            Mockito::class
+            JMeter::class
+            JIRA::class
+        ];
+    }
 
-<h3 align="left">Znajdź mnnie na:</h3>
+    public function getFutureGoal(): string
+    {
+        return 'Development towards performance testing.';
+    }
+}
+```
+
+
+Last project: [Testing project with Selenium, a book-lending website](https://github.com/mowmimalpa/Test-Project-Selenium)
+- 👨‍💻 All my projects: [https://github.com/mowmimalpa](https://github.com/mowmimalpa)
+
+- 📫 Contact: **dmalecki.it@gmail.com**
+
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maleckidawidit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maleckidawidit/" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Języki i narzędzia:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
